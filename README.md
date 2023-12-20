@@ -1,4 +1,4 @@
-# My new journey,studying how to use GitHub actions
+## My new journey,studying how to use GitHub actions
 
 <img src="images/me_new.jpg" width="250">
 
@@ -14,7 +14,7 @@ I’m learning a lot from this series and I’m excited to apply GitHub actions 
 
 
 ---
-## f you’re interested in learning more about GitHub actions, you can check out these courses on LinkedIn Learning:
+## if you’re interested in learning more about GitHub actions, you can check out these courses on LinkedIn Learning:
 - [The Future in Tech Page](https://go.raybo.org/tfit)
 - [Episode Guide](https://go.raybo.org/tfit-episodes)
 - [YouTube Playlist](https://go.raybo.org/tfit-youtube)
