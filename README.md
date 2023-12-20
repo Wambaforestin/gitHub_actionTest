@@ -1,6 +1,7 @@
-#My new journey,studying how to use GitHub actions
+##My new journey,studying how to use GitHub actions
 
 <img src="images/me_new.jpg" width="250">
+
 Second year student at EPSI Paris La Défense, I am preparing a Bachelor in Application Design and Development. I am taking a new step in my learning by following the [Future in Tech](https://go.raybo.org/tfit) a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
 
 This series allows me to discover generative AI tools such as ChatGPT, Dall-E*2, Hugging Face, and to exchange with experts in the field. I'm also learning about GitHub Actions, a powerful tool for automating and optimizing my development projects.
