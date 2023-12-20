@@ -1,4 +1,4 @@
-##My new journey,studying how to use GitHub actions
+# My new journey,studying how to use GitHub actions
 
 <img src="images/me_new.jpg" width="250">
 
