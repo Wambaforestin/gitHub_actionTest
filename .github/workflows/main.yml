@@ -1,0 +1,26 @@
+name: Generate actionTest
+on: [push] 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-versions: '3.10'
+      - name: Install Dependences
+        run:
+          pythin -m pip installl --upgrade pip
+          pip install pyyaml
+      - name: Run Generator
+        run: python feed.py
+      - name: push Repo
+        run:
+          git config user.name guthub-actions
+          git config user.name github-actions@github.com
+          git add .
+          git commit -m "modified feed"
+          git push
+          
